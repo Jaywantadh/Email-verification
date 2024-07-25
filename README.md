@@ -1,6 +1,5 @@
 Sure! Here's a README file for your email verification project in Go:
 
-```markdown
 # Email Verification Software
 
 This project is an Email Verification Software written in Go. It checks if an email address is valid and verifies it by sending a verification email.
